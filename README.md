@@ -32,11 +32,14 @@
 
 ## Input:
 
-### Output:
+
+Output:
+![Screenshot (13)](https://github.com/user-attachments/assets/0114c46c-732b-4d75-9b4a-a800b4015ff4)
 
 
-### Name:
-### Register Number:
+
+### Name:Infant Maria Stefanie. F
+### Register Number:24001512
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
